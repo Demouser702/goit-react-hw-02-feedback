@@ -1,0 +1,8 @@
+.feedback__container {
+  display: flex;
+  gap: 12px;
+}
+.feedback__button {
+  box-shadow: 0px 4px 4px 0px #00000040;
+  border-radius: 15%;
+}
